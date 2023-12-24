@@ -1,0 +1,3 @@
+i2cdevice
+drv8830
+paho-mqtt
